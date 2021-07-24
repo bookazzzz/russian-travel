@@ -5,4 +5,9 @@
   flex-basis: 484px;
   color: #FFFFFF;
   margin: 0;
+  padding-top: 48px;
+}
+
+.place__paragraph:last-child {
+  padding-top: 26px;
 }
