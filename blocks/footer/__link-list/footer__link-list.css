@@ -1,0 +1,22 @@
+.footer__link-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.footer__link-list > li {
+  display: inline;
+}
+
+.footer__link-list li:nth-child(odd) {
+  margin-right: 18px;
+  margin-left: 18px;
+}
+
+.footer__link-list li:first-child {
+  margin-left: 0;
+}
+
+.footer__link-list li:last-child {
+  margin-right: 0;
+}

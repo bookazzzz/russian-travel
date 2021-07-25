@@ -2,6 +2,7 @@
   display: inline;
 }
 
-.header__lang-list:last-child {
+.header__lang-list li:last-child {
   margin-left: 18px
 }
+

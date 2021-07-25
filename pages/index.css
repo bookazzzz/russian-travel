@@ -1,4 +1,5 @@
 @import url(../styles/normalize.css);
+@import url(../blocks/container/container.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/logo.css);
@@ -32,3 +33,5 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__link-list/footer__link-list.css);
+@import url(../blocks/cover/__text-block/cover__text-block.css);

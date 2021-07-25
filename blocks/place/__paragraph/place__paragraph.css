@@ -2,12 +2,24 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 29px;
-  flex-basis: 484px;
+  width: 484px;
   color: #FFFFFF;
   margin: 0;
-  padding-top: 48px;
 }
 
 .place__paragraph:last-child {
   padding-top: 26px;
 }
+
+/* @media (max-width: 1279px) { */
+
+
+
+
+/* @media (max-width: 1023px) { */
+
+
+
+
+/* @media (max-width: 767px) { */
+

@@ -5,3 +5,8 @@
   color:#FFFFFF;
   margin: 0;
 }
+
+.place__link:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
