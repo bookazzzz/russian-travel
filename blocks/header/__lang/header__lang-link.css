@@ -13,3 +13,14 @@
   width: 30px;
   height: 28px;
 }
+
+@media screen and (max-width: 320px) {
+  .header__lang-link {
+    width: 22px;
+    height: 20px;
+    font-size: 18px;
+    line-height: 20px;
+    padding-top: 16px;
+    margin: 0 auto;
+  }
+}
