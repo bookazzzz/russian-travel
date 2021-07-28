@@ -8,12 +8,14 @@
 @media screen and (max-width: 1024px) {
   .photo-grid__item {
     height: 225px;
+    width: 100%;
   }
 }
 
 @media screen and (max-width: 768px) {
   .photo-grid__item {
     height: 264px;
+    width: 100%;
   }
 }
 

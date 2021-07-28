@@ -17,6 +17,13 @@
   }
 }
 
+@media screen and (max-width: 767px) {
+  .place {
+    width: 100%;
+    grid-template-columns: 100%;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .place {
     row-gap: 32px;
