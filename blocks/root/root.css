@@ -1,8 +1,8 @@
 .root {
-  /* max-width: 1280px; */
-  /* min-width: 320px; */
+  max-width: 1280px;
+  min-width: 320px;
   margin: 0 auto;
-  font-family:Helvetica, Arial, "Inter", sans-serif;
+  font-family:"Inter", Helvetica, Arial,sans-serif;
   background-color: #2A2C2F;
   text-rendering: optimizeLegibility;
   -webkit-text-size-adjust: 100%;
@@ -12,19 +12,19 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .root {
     width: 100%;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .root {
     width: 100%;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .root {
     width: 100%;
   }

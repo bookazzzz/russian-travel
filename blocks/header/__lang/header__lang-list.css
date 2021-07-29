@@ -1,9 +1,12 @@
 .header__lang-list {
   margin-bottom: 0;
+  display: flex;
+  position: relative;
 }
 
 .header__lang-list > li {
-  display: inline;
+  /* display: inline; */
+  justify-content: space-between;
 }
 
 .header__lang-list li:last-child {
