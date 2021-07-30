@@ -2,12 +2,10 @@
   margin-bottom: 0;
   display: flex;
   position: relative;
-}
-
-.header__lang-list > li {
-  /* display: inline; */
   justify-content: space-between;
 }
+
+
 
 .header__lang-list li:last-child {
   margin-left: 18px;
