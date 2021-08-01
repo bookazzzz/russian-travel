@@ -1,13 +1,16 @@
 .header__lang-list {
-  margin-bottom: 0;
+  margin: 0;
+  padding: 18px 0 6px;
   display: flex;
   position: relative;
   justify-content: space-between;
+  list-style-type: none;
+  gap: 18px;
 }
 
-
-
-.header__lang-list li:last-child {
-  margin-left: 18px;
+@media screen and (max-width: 767px) {
+  .header__lang-list {
+    padding: 14px 0 8px;
+  }
 }
 

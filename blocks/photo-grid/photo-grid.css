@@ -13,6 +13,7 @@
   .photo-grid {
     grid-template-columns: repeat(3, 1fr);
     gap: 14px;
+    width: 928px;
   }
 }
 
@@ -29,7 +30,7 @@
   .photo-grid {
     width: 288px;
     grid-template-columns: 100%;
-    gap: 16px;
+    gap: 12px;
     padding-top: 64px;
   }
 }
